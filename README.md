@@ -1,5 +1,4 @@
 # Diagram
-markdown mermaid flowchart
 flowchart TD
     A[Silent Hill start of game] --> B(Choices in the middle of the game)
     B --> C{looking at itmes at the end of the game}
